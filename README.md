@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Simran
 - 👀 I’m interested in Machine Learning, Data Science and Python
 - 💞️ I’m looking to collaborate on ML projects, Data Science competitions, Hackathons :)
-- 📫 How to reach me Discord: @sira111
+- 📫 How to reach me Discord: @xiriee
 
 
 <!---
